@@ -8,3 +8,4 @@ def evens(n):
     '''
     xs = list(filter(lambda x: x % 2 == 0, list(range(0, n+1))))
     return xs
+
